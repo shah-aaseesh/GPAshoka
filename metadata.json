@@ -1,5 +1,5 @@
 {
   "name": "GPAshoka: University GPA Suite",
-  "description": "A high-performance GPA calculator specifically tuned for Ashoka University's grading system, featuring transcript parsing and retake management.",
+  "description": "A private, high-performance GPA calculator for Ashoka University. Features AMS transcript parsing, automatic retake supercession, and projections.",
   "requestFramePermissions": []
 }

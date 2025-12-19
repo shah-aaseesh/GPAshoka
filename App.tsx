@@ -2,7 +2,7 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import { Semester, DEFAULT_GRADE_SCALE, GPAResult, SemesterStats, Course } from './types';
 import { SemesterCard } from './components/SemesterCard';
-import { parseTextTranscript } from './geminiService';
+import { parseTextTranscript } from './parserService';
 import { 
   Calculator, 
   Plus, 
